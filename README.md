@@ -2,6 +2,12 @@
 
 单文件离线版：点选短语 + 填写题干词，逐段拼出一篇完整大作文。
 
+## 在线访问
+
+https://mendeleeevv.github.io/kaoyan-essay-template/
+
+手机、平板可直接打开该网址。
+
 ## 使用
 
 直接打开 `index.html` 即可，无需联网、无需安装依赖。
